@@ -1,5 +1,5 @@
 # MemoryTiles
-A classic tile matching game written in CPP
+A classic tile matching game written in CPP, originally targated for Windows OS.
 
 
 Screenshot 1: Welcome Screen<br />
